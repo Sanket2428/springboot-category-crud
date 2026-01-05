@@ -53,7 +53,7 @@ SampleProject
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sanket2428/springboot-category-crud
+git clone https://github.com/sanket-khavale/springboot-category-crud
 
 # Navigate to project directory
 cd SampleProject
